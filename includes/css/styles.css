@@ -1,0 +1,17 @@
+.container
+{
+overflow: hidden;
+
+
+}
+
+.graphic
+{
+float:left;
+padding-bottom: 20px;
+}
+.desc
+{
+float: left;
+margin-left: 10%;
+}
